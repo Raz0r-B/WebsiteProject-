@@ -1,0 +1,62 @@
+
+
+body{
+	margin: 0px;
+
+}
+
+header{
+	display: inline-block;
+	margin-bottom: 25px;
+	margin-top: 5px;
+	border-right: 2px solid #000;
+	margin-left: 2px;
+	
+}
+header nav{
+	display: inline-block;
+	margin: 0px 50px 0px;
+}
+
+header nav a{
+		border-left:1px solid #000;
+		border-right:1px solid #000;
+}
+
+#main-header{
+	border-bottom: 5px solid #000;
+	border-right: 0px;
+	margin: 0px 0px 0px;
+	
+	
+}
+
+#article-list{
+	width:1000px;
+	margin-top: 10px;
+
+}
+
+article{
+	max-width:32%;
+	display:inline-block;
+	border:1px solid #000;
+	vertical-align: top;
+	padding: 2px;
+	margin: 2px;
+}
+
+article img{
+	max-width: 100%;
+	
+	
+}
+
+article video{
+	max-width: 100%;
+	
+	
+}
+
+
+
